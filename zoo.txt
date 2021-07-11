@@ -1,9 +1,17 @@
-x
-
-ds
-d
-d
-d
-d
-d
-d
+visual encodings
+scalable vector graphics
+Small Multiples
+Horizon Graphs
+Stem-and-Leaf Plots
+Q-Q Plots
+brushing-and-linking
+Parallel Coordinates
+cartographic projection
+Flow Maps
+Choropleth Maps
+Graduated Symbol Maps
+indented trees
+Adjacency diagrams
+Enclosure diagrams
+force-directed layouts
+seriation
